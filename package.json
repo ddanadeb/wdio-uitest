@@ -14,4 +14,3 @@
         "wdio": "wdio run wdio.conf.js"
     }
 
-}
